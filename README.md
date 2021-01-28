@@ -1,1 +1,2 @@
-# CSE258_Fa20
+# Web Mining and Recommender Systems
+### Taught by Julian McAuley *****
